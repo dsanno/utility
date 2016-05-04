@@ -1,0 +1,6 @@
+dataset/*
+!dataset/.gitkeep
+images/*
+!images/.gitkeep
+words.txt
+imagenet.synset.obtain_synset_list
